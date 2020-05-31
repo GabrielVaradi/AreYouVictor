@@ -15,9 +15,9 @@ Are you Victor is a simple platformer that I did to start learning Unity and imm
 
 ### Final Product
 
-!["Screenshot of Menu"](https://github.com/victor-h-huynh/PawPrints/blob/master/PawPrintsLand.png?raw=true)
+!["Screenshot of Menu"](https://github.com/GabrielVaradi/AreYouVictor/blob/master/docs/Menu.png)
 
-!["Screenshot of Game"](https://github.com/victor-h-huynh/PawPrints/blob/master/PawPrintsSuccess.png?raw=true)
+!["Screenshot of Game"](https://github.com/GabrielVaradi/AreYouVictor/blob/master/docs/Game.Png)
 
 
 ### Tech Stack
